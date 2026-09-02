@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int battery = 100;
+	int battery = 99;
 	cout<<"battery = "<<battery<<"%"<<endl;
 	return 0;
 
