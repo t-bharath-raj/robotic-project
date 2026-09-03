@@ -8,5 +8,9 @@ ir sensor
 camera
 radar
 
+<<<<<<< HEAD
 updated readme
 sadfa
+=======
+updated readme again
+>>>>>>> b113a05 (updated readme)
